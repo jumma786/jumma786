@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi there! 👋 I'm Jumma Mohammad
 
-<!--
-**jumma786/jumma786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Data Analyst | Python Developer | Power BI Enthusiast**  
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I work on data analytics, machine learning, and automation projects to solve real-world problems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 About Me
+- Passionate about **data analysis, visualization, and ML projects**  
+- Skilled in **SQL, Python, Power BI, and Git/GitHub**  
+- Exploring **automation, AI, and business intelligence** solutions  
+- Always learning and experimenting with **new technologies**  
+
+---
+
+## 🛠️ Skills & Tools
+
+| Programming | Tools & Platforms | Data Visualization |
+|------------|-----------------|------------------|
+| Python | Git / GitHub | Power BI |
+| SQL | Jupyter Notebook | Matplotlib / Seaborn |
+| Pandas / NumPy | VS Code | Tableau (optional) |
+| Scikit-Learn | GitHub Actions | Excel |
+
+---
+
+## 📂 Featured Projects
+
+### 1. **Machine Learning Classifier**
+- Built a **Python ML classifier** to categorize data.  
+- Used `scikit-learn` for model training and evaluation.  
+- [Repository Link](https://github.com/jumma786/machine-learning-classifier)
+
+### 2. **Cloud Weather Project**
+- Weather prediction project using **Python & APIs**  
+- Integrated cloud-based data sources for live updates  
+- [Repository Link](https://github.com/jumma786/cloud-weather-project)
+
+### 3. **SQL & Data Analytics Lab**
+- SQL queries and analysis for **data reporting**  
+- Includes dashboards and insights for sample datasets  
+- [Repository Link](https://github.com/jumma786/lab6)
+
+*(Add more projects as needed and keep links live)*  
+
+---
+
+## 📈 GitHub Stats
+![Jumma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jumma786&show_icons=true&theme=radical)  
+
+---
+
+## 📫 Contact Me
+- **Email:** jumma.mohammad@example.com  
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)  
+- **Portfolio:** [Your Portfolio Website] (optional)  
+
+---
+
+> “Data is the new oil. Transform it into insight.” 🔍
