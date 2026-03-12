@@ -42,9 +42,8 @@ Welcome to my GitHub! I work on data analytics, machine learning, and automation
 - Includes dashboards and insights for sample datasets  
 - [Repository Link](https://github.com/jumma786/lab6)
 
-*(Add more projects as needed and keep links live)*  
 
----
+
 
 ## 📈 GitHub Stats
 ![Jumma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jumma786&show_icons=true&theme=radical)  
@@ -52,9 +51,9 @@ Welcome to my GitHub! I work on data analytics, machine learning, and automation
 ---
 
 ## 📫 Contact Me
-- **Email:** jumma.mohammad@example.com  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)  
-- **Portfolio:** [Your Portfolio Website] (optional)  
+- **Email:** jummamohammad477@gmail.com
+- **LinkedIn:**   linkedin.com/in/jumma-mohammad
+- **Portfolio:**  https://github.com/jumma786
 
 ---
 
