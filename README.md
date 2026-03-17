@@ -54,11 +54,15 @@ Welcome to my GitHub! I work on data analytics, machine learning, and automation
    ```bash
    python3 sales_analysis.py
    ```
-3. Run with plots:
+3. Run with forecast and plots:
    ```bash
-   python3 sales_analysis.py --plot
+   python3 sales_analysis.py --forecast --plot
    ```
-4. Open the notebook in VS Code: `sales_analysis.ipynb`
+4. Run with custom data:
+   ```bash
+   python3 sales_analysis.py --data sales_sample.csv --forecast
+   ```
+5. Open the notebook in VS Code: `sales_analysis.ipynb`
 
 ---
 
