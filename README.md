@@ -45,6 +45,23 @@ Welcome to my GitHub! I work on data analytics, machine learning, and automation
 
 
 
+## 🧪 Run This Project
+1. Install dependencies:
+   ```bash
+   python3 -m pip install -r requirements.txt
+   ```
+2. Run the analysis CLI:
+   ```bash
+   python3 sales_analysis.py
+   ```
+3. Run with plots:
+   ```bash
+   python3 sales_analysis.py --plot
+   ```
+4. Open the notebook in VS Code: `sales_analysis.ipynb`
+
+---
+
 ## 📈 GitHub Stats
 ![Jumma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jumma786&show_icons=true&theme=radical)  
 
