@@ -52,7 +52,7 @@ Welcome to my GitHub! I work on data analytics, machine learning, and automation
 
 ## 📫 Contact Me
 - **Email:** jummamohammad477@gmail.com
-- **LinkedIn:**   linkedin.com/in/jumma-mohammad
+- **LinkedIn:**   https://linkedin.com/in/jumma-mohammad
 - **Portfolio:**  https://github.com/jumma786
 
 ---
