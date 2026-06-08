@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-Data Analyst with 5+ years of experience, now building production-grade MLOps systems. I turn messy data into business decisions — from SQL pipelines and Power BI dashboards to FastAPI model serving, drift detection, and Kubernetes deployments.
+Data Analyst with 9+ years of experience, now building production-grade MLOps systems. I turn messy data into business decisions — from SQL pipelines and Power BI dashboards to FastAPI model serving, drift detection, and Kubernetes deployments.
 
 - 🏢 **Currently:** Data Analyst at UBS, London (Oct 2024–present)
 - 💼 **Previously:** Data Analyst at IT Skills, London (Oct 2023–Oct 2024)
