@@ -1,391 +1,109 @@
 # 👋 Hi, I'm Jumma Mohammad Teli
 
-### Data Analyst | Data Science | Machine Learning | SQL | Python | Power BI
-
-📍 Birmingham, United Kingdom
-
----
-
-# 🚀 Professional Summary
-
-Results-driven Data Analyst and aspiring Data Scientist with 5+ years of experience delivering data-driven solutions across healthcare, retail, finance, IoT, and business analytics domains.
-
-Experienced in transforming complex datasets into actionable insights using Python, SQL, Power BI, Machine Learning, and Big Data technologies. Skilled in building predictive models, developing analytical dashboards, automating ETL workflows, and solving real-world business problems through advanced analytics and data engineering techniques.
-
-Strong foundation in:
-
-* Data Analytics & Business Intelligence
-* Machine Learning & Predictive Analytics
-* SQL Development & Query Optimisation
-* Python for Data Science
-* Data Engineering & ETL Pipelines
-* Big Data Processing with PySpark
-* Dashboard Development & KPI Reporting
-* Statistical Analysis & Exploratory Data Analysis (EDA)
-
-Currently expanding expertise in:
-
-* MLOps & ML Deployment
-* Databricks & Distributed Analytics
-* AI Engineering & Scalable ML Systems
-* Cloud-Based Data Solutions
+### MLOps Engineer & Senior Data Analyst | Python · SQL · Power BI · FastAPI · Kubernetes
+### 📍 Birmingham, UK &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/jumma-mohammad) &nbsp;|&nbsp; 📧 jummamohammad477@gmail.com
 
 ---
 
-# 🛠 Technical Skills
+## 🚀 About Me
 
-## 💻 Programming Languages
+Data Analyst with 5+ years of experience, now building production-grade MLOps systems. I turn messy data into business decisions — from SQL pipelines and Power BI dashboards to FastAPI model serving, drift detection, and Kubernetes deployments.
 
-* Python
-* SQL
-* R (Basic)
-* Java (Basic)
-* Scala (Basic)
-
-## 📊 Data Analysis & Visualisation
-
-* pandas
-* numpy
-* matplotlib
-* seaborn
-* Excel (Advanced Analytics)
-
-## 📈 Business Intelligence
-
-* Power BI (DAX, KPI Dashboards, Reporting)
-* Tableau
-
-## 🤖 Machine Learning & AI
-
-* scikit-learn
-* XGBoost
-* Regression & Classification Models
-* Decision Trees
-* Random Forest
-* Support Vector Machines (SVM)
-* Feature Engineering
-* Model Evaluation & Cross-Validation
-* Neural Networks (ANN, CNN, RNN)
-
-## ⚙️ Data Engineering & Big Data
-
-* PySpark
-* Apache Spark
-* Databricks
-* Talend ETL
-* Hadoop (Exposure)
-* ETL/ELT Workflows
-
-## ☁️ Tools & Platforms
-
-* Git & GitHub
-* AWS (Exposure)
-* Google Cloud Platform (Exposure)
-* Jupyter Notebook
-* VS Code
+- 🏢 **Currently:** Data Analyst at UBS, London (Oct 2024–present)
+- 💼 **Previously:** Data Analyst at IT Skills, London (Oct 2023–Oct 2024)
+- 🎓 **Education:** MSc Computer Science (Queen Mary University of London, 2023–24)
+- 🎯 **Target:** ML/AI Engineer & Senior Data Analyst roles in the UK
 
 ---
 
-# 💼 Professional Experience
+## ☸️ MLOps Portfolio — 10 Projects · 132 Tests Passing · Real Data Throughout
 
-## 📊 Data Analyst — IT Skills, London, United Kingdom
+> End-to-end MLOps series built on UCI Bank Marketing (41K rows) and UCI Online Retail II (1M+ rows)
 
-📅 Feb 2025 – Present
-
-* Built Power BI dashboards improving reporting efficiency by 30%
-* Automated ETL workflows reducing manual effort by 40%
-* Performed analytical reporting using Python and SQL
-* Delivered actionable business insights through data analysis
-* Collaborated with stakeholders to improve KPI visibility and reporting accuracy
-
----
-
-## 📊 Data Analyst — Skyway Internet Services, India
-
-📅 Apr 2019 – Jul 2023
-
-* Analysed operational datasets using SQL and statistical analysis techniques
-* Built predictive analytics solutions supporting strategic business decisions
-* Developed dashboards and analytical reports for stakeholders
-* Improved data quality through automation and validation workflows
-* Translated analytical findings into business-focused insights
+| # | Project | Key Tech | Tests |
+|---|---|---|---|
+| 1 | [Multi-Model Tournament Pipeline](https://github.com/jumma786/mlops-model-tournament) | MLflow, XGBoost, LightGBM, CatBoost, Random Forest | 13/13 ✅ |
+| 2 | [Scheduled Retraining + DVC](https://github.com/jumma786/mlops-retraining-pipeline) | DVC, MLflow, Champion gate, quarterly splits | 11/11 ✅ |
+| 3 | [Feature Engineering Pipeline](https://github.com/jumma786/mlops-feature-pipeline) | Custom sklearn transformers, MLflow artifact versioning | 17/17 ✅ |
+| 4 | [Hyperparameter Tuning — Optuna](https://github.com/jumma786/mlops-hyperparameter-tuning) | Optuna, Bayesian search, MLflow parent/child runs | 10/10 ✅ |
+| 5 | [Model Serving — FastAPI + Docker](https://github.com/jumma786/mlops-model-serving) | FastAPI, Docker multi-stage, Cloud Run ready | 11/11 ✅ |
+| 6 | [Feature Store — Online Retail II](https://github.com/jumma786/mlops-feature-store) | RFM segmentation, Parquet offline store, FastAPI serving | 14/14 ✅ |
+| 7 | [Model Monitoring & Drift Detection](https://github.com/jumma786/mlops-model-monitoring) | PSI, KS-test, Chi-squared, 3 production windows | 16/16 ✅ |
+| 8 | [A/B Testing Framework](https://github.com/jumma786/mlops-ab-testing) | Z-test, Cohen's h, FastAPI traffic router | 15/15 ✅ |
+| 9 | [Airflow Pipeline Orchestration](https://github.com/jumma786/mlops-airflow-pipeline) | Apache Airflow DAG, XCom state passing, validation gate | 13/13 ✅ |
+| 10 | [Kubernetes ML Platform](https://github.com/jumma786/mlops-k8s-platform) | K8s manifests, Helm chart, Prometheus, HPA autoscaling | 12/12 ✅ |
 
 ---
 
-# 🤖 Machine Learning Projects
+## 🏥 End-to-End Analytics Projects
 
-## 🦿 GaitSync — Healthcare Machine Learning System
-
-Machine learning dissertation project using gyroscope sensor data to analyse gait patterns for rehabilitation and movement abnormality detection.
-
-### Technologies:
-
-Python • scikit-learn • Sensor Analytics • Machine Learning
-
-🔗 https://github.com/jumma786/gaitsync-gait-analysis-ml
-
----
-
-## 🧠 Cancer Detection Prediction Model
-
-Built and evaluated machine learning classification models for cancer prediction, achieving approximately 98% model accuracy through feature engineering and model optimisation.
-
-### Technologies:
-
-Python • XGBoost • scikit-learn • Predictive Analytics
-
-🔗 https://github.com/jumma786/cancer-prediction-ml
+| Project | Stack | Headline |
+|---|---|---|
+| [Hospital Analytics End-to-End](https://github.com/jumma786/hospital-analytics-end-to-end) | T-SQL, Power BI, XGBoost, SHAP | AUC 0.907, readmission prediction, star schema |
+| [Hospital Readmission API](https://github.com/jumma786/hospital-readmission-api) | FastAPI, XGBoost, Render (live) | Deployed live API with 7 pytest tests |
+| [UK Data Analyst Job Market NLP](https://github.com/jumma786/uk-data-analyst-job-market-nlp) | NLP, UMAP, HDBSCAN, XGBoost | 3,653 postings → 17 role archetypes |
+| [UK Online Retail Analytics](https://github.com/jumma786/online-retail-analytics) | Python, SQL Server, Power BI, XGBoost | £1.26M at-risk revenue, RFM segmentation |
+| [UK Energy Forecasting](https://github.com/jumma786/uk-energy-forecasting) | ML pipeline, time series | End-to-end forecasting pipeline |
+| [Airline Operations Analytics](https://github.com/jumma786/airline-operations-analytics) | Python, SQL | 495K BTS flight records, data quality audit |
 
 ---
 
-## 🍷 Wine Quality Classification System
+## 📊 Power BI & Business Intelligence
 
-Developed classification models predicting wine quality using Random Forest and SVM algorithms with cross-validation and hyperparameter tuning.
-
-### Technologies:
-
-Python • Random Forest • SVM • GridSearchCV • Machine Learning
-
-🔗 https://github.com/jumma786/Wine-Quality-Classification-using-Machine-Learning
-
----
-
-## 📈 Tesla Stock Market Prediction
-
-End-to-end financial analytics and time-series forecasting project focused on stock market trend prediction and data-driven investment analysis.
-
-### Technologies:
-
-Python • XGBoost • pandas • Time-Series Analytics
-
-🔗 https://github.com/jumma786/Stock-Market-Analysis-Prediction-Tesla-TSLA
+| Project | Highlight |
+|---|---|
+| [NorthStar Living UK Retail Dashboard](https://github.com/jumma786/-NorthStar-Living-UK-Retail-P...) | Interactive retail performance across categories, regions, time |
+| [HR Attrition Analysis](https://github.com/jumma786/hr-attrition-analysis-powerbi) | Workforce trends for HR retention strategy |
+| [Supply Chain Performance](https://github.com/jumma786/supply-chain-performance-powerbi) | Supply chain KPI dashboard |
+| [Coffee Sales Dashboard](https://github.com/jumma786/COFFEE_SALES_DASHBOARD) | Professional sales analytics |
+| [Superstore Sales Analysis](https://github.com/jumma786/superstore-sales-analysis-pow...) | Power BI retail analytics |
+| [Employee Salary Analysis](https://github.com/jumma786/Employee-Salary-Analysis-Dash...) | Tableau dashboard |
 
 ---
 
-## 👥 Workplace Churn Feature Engineering
+## 🤖 Machine Learning & Data Science
 
-Predictive analytics project analysing employee churn patterns using feature engineering and machine learning techniques.
-
-### Technologies:
-
-Python • Feature Engineering • Predictive Analytics • Machine Learning
-
-🔗 https://github.com/jumma786/workplace-churn-feature-engineering
-
----
-
-## 🤖 AI Customer Support Ticket Classifier
-
-AI-powered NLP classification project for automated customer support ticket categorisation and workflow optimisation.
-
-### Technologies:
-
-Python • NLP • Machine Learning • Classification Models
-
-🔗 https://github.com/jumma786/AI-Customer-Support-Ticket-Classifier
+| Project | Stack | Highlight |
+|---|---|---|
+| [Customer Churn MLOps](https://github.com/jumma786/customer-churn-mlops) | Python, XGBoost | Production-style telecom churn |
+| [Workplace Churn Feature Engineering](https://github.com/jumma786/workplace-churn-feature-engin...) | Custom sklearn transformers | Leakage-safe pipeline, AUC 0.820 |
+| [Bank Marketing Analysis](https://github.com/jumma786/bank-marketing-analysis) | Python, ML | UCI Bank Marketing classification |
+| [PySpark Sales Analysis](https://github.com/jumma786/pyspark-sales-analysis) | PySpark, Databricks | 11 modules, 24-test pytest suite |
+| [Tesla Stock Prediction](https://github.com/jumma786/-Stock-Market-Analysis-Predic...) | XGBoost, lag features | End-to-end TSLA forecasting |
+| [GaitSync — MSc Dissertation](https://github.com/jumma786/gaitsync-gait-analysis-ml) | Python, scikit-learn | Gait analysis ML for rehabilitation |
+| [Cancer Prediction ML](https://github.com/jumma786/cancer-prediction-ml) | scikit-learn | Classification model |
 
 ---
 
-## 🌦 Weather Prediction System
+## 🛢️ SQL Projects
 
-Machine learning project predicting weather conditions using historical environmental datasets and predictive analytics techniques.
-
-### Technologies:
-
-Python • Machine Learning • Predictive Analytics
-
-🔗 https://github.com/jumma786/weather-prediction
+| Project | Highlight |
+|---|---|
+| [SQL Retail Sales Analysis](https://github.com/jumma786/sql-retail-sales-analysis) | UK retail sales, window functions, CTEs |
+| [Advanced SQL Sales Project](https://github.com/jumma786/advanced-sql-sales-project) | Retail analysis with aggregations |
+| [SQL Data Analysis Project](https://github.com/jumma786/sql-data-analysis-project) | Data analysis queries and cleaning |
 
 ---
 
-## 📞 SLA Breach Classification & Threshold Tuning
+## 🛠️ Tech Stack
 
-Machine learning classification project designed to predict SLA breaches and optimise operational thresholds.
-
-### Technologies:
-
-Python • Classification Models • Predictive Analytics
-
-🔗 https://github.com/jumma786/Sla-breach-classification-threshold-tuning
-
----
-
-# ⚙️ Big Data & Data Engineering Projects
-
-## ⚡ PySpark Sales Analysis
-
-Big data analytics project using PySpark and distributed processing techniques for scalable sales data analysis and reporting.
-
-### Technologies:
-
-PySpark • Apache Spark • Big Data Analytics • Python
-
-🔗 https://github.com/jumma786/pyspark-sales-analysis
+**MLOps:** MLflow · DVC · Optuna · Apache Airflow · Kubernetes · Helm · Prometheus · Docker  
+**ML/Python:** XGBoost · LightGBM · CatBoost · scikit-learn · Pandas · NumPy · SciPy · SHAP  
+**APIs:** FastAPI · Uvicorn · Pydantic · pytest  
+**Data/SQL:** SQL Server · T-SQL · CTEs · Window Functions · Star Schema · Parquet  
+**BI:** Power BI · DAX · Power Query · Tableau · Cognos  
+**ETL:** Talend Open Studio · DVC · Airflow  
+**Cloud:** AWS · GCP · Databricks · Render · Cloud Run  
+**Other:** R · PySpark · NLP · UMAP · HDBSCAN  
 
 ---
 
-## 🔄 Movie ETL Pipeline using Talend
+## 📫 Connect
 
-Designed and implemented ETL workflows for extracting, transforming, and loading movie datasets using Talend Open Studio.
-
-### Technologies:
-
-Talend ETL • SQL • Data Transformation • Data Engineering
-
-🔗 https://github.com/jumma786/movie-etl-talend
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jumma--mohammad-0077B5?logo=linkedin)](https://linkedin.com/in/jumma-mohammad)
+[![GitHub](https://img.shields.io/badge/GitHub-jumma786-181717?logo=github)](https://github.com/jumma786)
+[![Email](https://img.shields.io/badge/Email-jummamohammad477-D14836?logo=gmail)](mailto:jummamohammad477@gmail.com)
 
 ---
 
-## 🌍 World Data Monitor
-
-Data processing and analytics project integrating multiple global datasets for reporting and business intelligence workflows.
-
-### Technologies:
-
-Python • SQL • Data Processing • Analytics
-
-🔗 https://github.com/jumma786/world-data-monitor
-
----
-
-# 🗄 SQL & Analytics Projects
-
-## 🏥 Hospital Analytics End-to-End
-
-Comprehensive healthcare analytics solution integrating SQL Server, ETL workflows, and Power BI dashboards for KPI reporting and operational insights.
-
-### Technologies:
-
-SQL Server • Power BI • ETL • Data Analytics
-
-🔗 https://github.com/jumma786/hospital-analytics-end-to-end
-
----
-
-## 🛍 Online Retail Analytics
-
-Retail analytics project analysing over 1M+ UK retail transactions using SQL-based customer segmentation and business intelligence techniques.
-
-### Technologies:
-
-SQL • Power BI • RFM Analysis • Analytics
-
-🔗 https://github.com/jumma786/online-retail-analytics
-
----
-
-## 📊 SQL Retail Sales Analysis
-
-Advanced SQL analytics project focused on customer behaviour analysis, KPI reporting, and sales trend identification.
-
-### Technologies:
-
-SQL • Data Analytics • Query Optimisation • Reporting
-
-🔗 https://github.com/jumma786/sql-retail-sales-analysis
-
----
-
-## 📈 Advanced SQL Sales Analytics
-
-Advanced SQL project demonstrating complex analytical querying, aggregations, KPI generation, and business reporting workflows.
-
-### Technologies:
-
-SQL • Business Intelligence • Reporting • Analytics
-
-🔗 https://github.com/jumma786/advanced-sql-sales-project
-
----
-
-# 🐍 Python Projects
-
-## 🧪 AI-Based Alloy Manufacturing Analytics System
-
-Industrial analytics project applying AI and machine learning techniques to manufacturing and operational datasets.
-
-### Technologies:
-
-Python • AI Analytics • Machine Learning • Data Processing
-
-🔗 https://github.com/jumma786/AI-Based-Alloy-Manufacturing-Analytics-System
-
----
-
-## 📊 Data Cleaning & Preprocessing Workflows
-
-Project repository demonstrating data preprocessing, feature engineering, and dataset preparation techniques for analytics and machine learning workflows.
-
-### Technologies:
-
-Python • pandas • Data Preprocessing • Feature Engineering
-
-🔗 https://github.com/jumma786/session03-data-cleaning-preprocessing
-
----
-
-## 📈 Exploratory Data Analysis & Visualisation
-
-Repository focused on EDA workflows, data visualisation, statistical analysis, and business insight generation using Python.
-
-### Technologies:
-
-Python • EDA • matplotlib • seaborn • Analytics
-
-🔗 https://github.com/jumma786/session_04_eda_visualisation
-
----
-
-# 📊 Core Competencies
-
-* Data Analytics & Business Intelligence
-* Machine Learning & Predictive Analytics
-* SQL Query Optimisation
-* Python for Data Science
-* Big Data Processing
-* ETL & Data Engineering
-* Dashboard Development & KPI Reporting
-* Exploratory Data Analysis (EDA)
-* Statistical Analysis & Problem Solving
-* Stakeholder Communication
-* Data Cleaning & Transformation
-* Business-Focused Analytical Reporting
-
----
-
-# 🎯 Career Interests
-
-Currently seeking opportunities in:
-
-* Data Analyst
-* Business Intelligence Analyst
-* Data Scientist
-* Junior Machine Learning Engineer
-* Analytics Engineer
-* Data Engineer
-* AI & Machine Learning Roles
-* Big Data Analytics Roles
-* SQL & Reporting Analyst Roles
-* Python Developer (Data-Focused)
-
-Interested in working on:
-
-* Machine Learning & Predictive Analytics
-* Business Intelligence & Dashboarding
-* Big Data Processing & Data Engineering
-* AI-Driven Analytics Solutions
-* Cloud-Based Data Platforms
-* Scalable Data Pipelines & ETL Workflows
-* Real-World Business Problem Solving using Data & AI
-
----
-
-# 📬 Contact Information
-
-📧 Email: [jummamohammad477@gmail.com](mailto:jummamohammad477@gmail.com)
-💼 LinkedIn: https://www.linkedin.com/in/jumma-mohammad/
-🌐 GitHub: https://github.com/jumma786
-
----
-
-⭐ Passionate about transforming data into actionable insights and building scalable, intelligent, data-driven solutions.
+*75 public repositories · 132 MLOps tests passing · Real datasets throughout*
