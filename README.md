@@ -3,6 +3,8 @@
 ### MLOps Engineer & Senior Data Analyst | Python · SQL · Power BI · FastAPI · Kubernetes
 ### 📍 Birmingham, UK &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/jumma-mohammad) &nbsp;|&nbsp; 📧 jummamohammad477@gmail.com
 
+[![MLOps Portfolio](https://img.shields.io/badge/MLOps_Portfolio-10_Projects-326CE5?style=for-the-badge&logo=github)](https://github.com/jumma786/mlops-portfolio)
+
 ---
 
 ## 🚀 About Me
@@ -16,9 +18,10 @@ Data Analyst with 9+ years of experience, now building production-grade MLOps sy
 
 ---
 
-## ☸️ MLOps Portfolio — 10 Projects · 132 Tests Passing · Real Data Throughout
+## ☸️ [MLOps Portfolio](https://github.com/jumma786/mlops-portfolio) — 10 Projects · 132 Tests Passing · Real Data Throughout
 
-> End-to-end MLOps series built on UCI Bank Marketing (41K rows) and UCI Online Retail II (1M+ rows)
+> End-to-end MLOps series built on UCI Bank Marketing (41K rows) and UCI Online Retail II (1M+ rows).  
+> **→ [View portfolio index & pipeline overview](https://github.com/jumma786/mlops-portfolio)**
 
 | # | Project | Key Tech | Tests |
 |---|---|---|---|
