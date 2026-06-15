@@ -96,8 +96,11 @@ Data Analyst with 9+ years of experience, now building production-grade MLOps sy
 **Data/SQL:** SQL Server · T-SQL · CTEs · Window Functions · Star Schema · Parquet  
 **BI:** Power BI · DAX · Power Query · Tableau · Cognos  
 **ETL:** Talend Open Studio · DVC · Airflow  
-**Cloud:** AWS · GCP · Databricks · Render · Cloud Run  · Snowflake · Microsoft Azure
+**Cloud:** AWS · GCP · Databricks · Render · Cloud Run  ·Snowflake ·Microsoft Azure
 **Other:** R · PySpark · NLP · UMAP · HDBSCAN  
+
+
+
 
 ---
 
