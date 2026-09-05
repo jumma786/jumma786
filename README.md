@@ -10,6 +10,7 @@
   <a href="mailto:jummamohammad477@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <img src="https://img.shields.io/badge/📍_Birmingham,_UK-2b3137?style=for-the-badge">
 </p>
+[![MLOps Portfolio](https://img.shields.io/badge/MLOps_Portfolio-11_Projects-326CE5?style=for-the-badge&logo=github)](https://github.com/jumma786/mlops-portfolio)
 
 ---
 
@@ -36,7 +37,7 @@ Data professional with **9+ years of experience**, now building end-to-end MLOps
 
 ---
 
-## ☸️ MLOps Portfolio — 11 Repositories · 132+ Tests Passing · Real Data Throughout
+## ☸️ MLOps Portfolio — 11 Repositories · 132+ Tests Passing · Public Data with Explicit Fixtures
 
 End-to-end MLOps series built on **UCI Bank Marketing** (41K rows) and **UCI Online Retail II** (1M+ rows).
 
@@ -55,6 +56,48 @@ End-to-end MLOps series built on **UCI Bank Marketing** (41K rows) and **UCI Onl
 | 11 | [Customer Churn MLOps](https://github.com/jumma786/customer-churn-mlops) | Python, XGBoost | Production-style telecom churn |
 
 ➡️ [**MLOps Portfolio Index**](https://github.com/jumma786/mlops-portfolio) · 📊 [**MLOps Portfolio Dashboard**](https://github.com/jumma786/mlops-portfolio-dashboard)
+
+---
+
+## 🏥 End-to-End Analytics Projects
+
+| Project | Stack | Headline |
+|---|---|---|
+| [Hospital Analytics End-to-End](https://github.com/jumma786/hospital-analytics-end-to-end) | T-SQL, Power BI, XGBoost, SHAP | AUC 0.907, readmission prediction, star schema |
+| [Hospital Readmission API](https://github.com/jumma786/hospital-readmission-api) | FastAPI, XGBoost, Render (live) | Deployed live API with 7 pytest tests |
+| [UK Data Analyst Job Market NLP](https://github.com/jumma786/uk-data-analyst-job-market-nlp) | NLP, UMAP, HDBSCAN, XGBoost | 3,653 postings → 17 role archetypes |
+| [UK Online Retail Analytics](https://github.com/jumma786/online-retail-analytics) | Python, SQL Server, Power BI, XGBoost | £1.26M at-risk revenue, RFM segmentation |
+| [Wealth KPI Engine](https://github.com/jumma786/wealth-kpi-engine) | Python, SQL, ONS, Bank of England | AUM/AUMA, NNM, fee yield and retention; 20 tests |
+| [UK BBSI Tax Reporting Pipeline](https://github.com/jumma786/uk-bbsi-tax-reporting-pipeline) | Python, SQL, HMRC, pandas | Public HMRC reporting context; 34 tests; £0.03 residual |
+| [UK Energy Forecasting](https://github.com/jumma786/uk-energy-forecasting) | ML pipeline, time series | End-to-end forecasting pipeline |
+| [Airline Operations Analytics](https://github.com/jumma786/airline-operations-analytics) | Python, SQL | 495K BTS flight records, data quality audit |
+
+> **Data provenance:** Wealth and BBSI use official ONS, Bank of England and HMRC aggregate statistics. Any record-level client, taxpayer, account or posting data in those projects is clearly labelled deterministic synthetic test data.
+
+## ☁️ Infrastructure & Platform
+
+| Project | Stack | Highlight |
+|---|---|---|
+| [MLOps Infrastructure as Code](https://github.com/jumma786/mlops-iac-terraform) | Terraform, Azure Container Apps, GitHub Actions | Approved-plan apply, immutable image tags, OIDC and managed identity |
+
+---
+
+## 📊 Power BI, Tableau & Business Intelligence
+
+| Project | Highlight |
+|---------|-----------|
+| [NorthStar Living UK Retail Dashboard](https://github.com/jumma786/-NorthStar-Living-UK-Retail-Performance-Dashboard) | Interactive retail performance across categories, regions & time |
+| [NHS RTT Dashboard](https://github.com/jumma786/NHS-RTT-Dashboard) | NHS referral-to-treatment waiting-time dashboard |
+| [HR Attrition Analysis (Power BI)](https://github.com/jumma786/hr-attrition-analysis-powerbi) | Workforce trends for retention strategy |
+| [Supply Chain Performance (Power BI)](https://github.com/jumma786/supply-chain-performance-powerbi) | Supply chain KPI dashboard |
+| [Coffee Sales Dashboard](https://github.com/jumma786/COFFEE_SALES_DASHBOARD) | Professional sales analytics |
+| [Superstore Sales Analysis (Power BI)](https://github.com/jumma786/superstore-sales-analysis-powerbi) | Power BI retail analytics |
+| [Power BI Business Dashboard](https://github.com/jumma786/powerbi-business-dashboard) | General business KPI dashboard |
+| [Employee Salary Analysis (Tableau)](https://github.com/jumma786/Employee-Salary-Analysis-Dashboard-Tableau-) | Tableau salary dashboard |
+| [House Price Analysis (Tableau)](https://github.com/jumma786/house-price-analysis-tableau) | Tableau housing market analysis |
+| [Chocolate Sales — Valuation & Ops](https://github.com/jumma786/Strategic-Valuation-Operational-Analysis-Chocolate-Sales-Co.-) | Strategic valuation & operational analysis |
+| [Global Bicycle Sales (Excel)](https://github.com/jumma786/global-bicycle-sales-analysis-excel) | Excel sales analysis |
+| [Excel Mental Health Data Analysis](https://github.com/jumma786/excel-mental-health-data-analysis) | Excel-based EDA |
 
 ---
 
@@ -116,6 +159,7 @@ End-to-end MLOps series built on **UCI Bank Marketing** (41K rows) and **UCI Onl
 | [Chocolate Sales — Valuation & Ops](https://github.com/jumma786/Strategic-Valuation-Operational-Analysis-Chocolate-Sales-Co.-) | Strategic valuation & operational analysis |
 | [Global Bicycle Sales (Excel)](https://github.com/jumma786/global-bicycle-sales-analysis-excel) | Excel sales analysis |
 | [Excel Mental Health Data Analysis](https://github.com/jumma786/excel-mental-health-data-analysis) | Excel-based EDA |
+|---|---|---|
 
 ---
 
@@ -260,6 +304,20 @@ AI/GenAI course work and structured ML sessions:
 ---
 
 <p align="center">
-  <b>95 public repositories · 132+ MLOps tests passing · Real datasets throughout</b><br>
+  <b>108 public repositories · 132+ MLOps tests passing · Public datasets with synthetic fixtures clearly labelled</b><br>
   <i>Open to ML/AI Engineer & Senior Data Analyst opportunities in the UK 🇬🇧</i>
 </p>
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jumma--mohammad-0077B5?logo=linkedin)](https://linkedin.com/in/jumma-mohammad)
+[![GitHub](https://img.shields.io/badge/GitHub-jumma786-181717?logo=github)](https://github.com/jumma786)
+[![Email](https://img.shields.io/badge/Email-jummamohammad477-D14836?logo=gmail)](mailto:jummamohammad477@gmail.com)
+
+## ✍️ Latest Writing
+
+- [Building a UK BBSI Reporting Pipeline That Refuses to Plug the Difference](https://medium.com/@jummamohammad477/building-a-uk-bbsi-reporting-pipeline-that-refuses-to-plug-the-difference-5f92b86e6946)
+- [Building a Wealth KPI Engine That Explains Growth Instead of Just Reporting It](https://medium.com/@jummamohammad477/building-a-wealth-kpi-engine-that-explains-growth-instead-of-just-reporting-it-782a6c7ca375)
+- [Infrastructure as Code](https://medium.com/@jummamohammad477/infrastructure-as-code-583bd28b92bf)
+- [Read all 26 articles on Medium](https://medium.com/@jummamohammad477)
+
