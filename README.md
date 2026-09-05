@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-Data professional with **9+ years of experience**, now building end-to-end MLOps systems. I bridge analytics and engineering: extracting insight with SQL and Power BI, then shipping models into production with FastAPI, MLflow, Airflow, and Kubernetes.
+Data professional with **7+ years in analytics**, plus earlier IT operations experience, now building end-to-end MLOps systems. I bridge analytics and engineering: extracting insight with SQL and Power BI, then shipping models into production with FastAPI, MLflow, Airflow, and Kubernetes.
 
 - 🏢 **Currently:** Data Analyst @ UBS, London *(Oct 2024 – Present)*
 - 💼 **Previously:** Data Analyst @ IT Skills, London *(Oct 2023 – Oct 2024)*
