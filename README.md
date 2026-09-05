@@ -181,6 +181,7 @@ End-to-end MLOps series built on **UCI Bank Marketing** (41K rows) and **UCI Onl
 | Project | Stack | Highlight |
 |---------|-------|-----------|
 | [PySpark Sales Analysis](https://github.com/jumma786/pyspark-sales-analysis) | PySpark, Databricks | 11 modules, 24-test pytest suite |
+| [PySpark UK Property Analytics](https://github.com/jumma786/pyspark-uk-property-analytics) | PySpark, HM Land Registry, Parquet | 5.5GB public dataset pipeline with benchmarks |
 | [NYC Taxi dbt](https://github.com/jumma786/nyc_taxi_dbt) | dbt, SQL | Analytics engineering with dbt |
 | [Movie ETL — Talend](https://github.com/jumma786/movie-etl-talend) | Talend Open Studio | ETL pipeline for movie data |
 | [Cloud Weather Project](https://github.com/jumma786/cloud-weather-project) | Cloud, Python | Cloud-based weather data pipeline |
@@ -254,6 +255,8 @@ AI/GenAI course work and structured ML sessions:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-2E8B57?style=flat-square)
+![UMAP](https://img.shields.io/badge/UMAP-5B4B8A?style=flat-square)
+![HDBSCAN](https://img.shields.io/badge/HDBSCAN-3B7A57?style=flat-square)
 
 **MLOps**
 
@@ -265,6 +268,8 @@ AI/GenAI course work and structured ML sessions:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
 **APIs & Testing**
 
@@ -272,6 +277,9 @@ AI/GenAI course work and structured ML sessions:
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-2094F3?style=flat-square)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-2F6F9F?style=flat-square)
 
 **Databases & SQL**
 
@@ -292,6 +300,8 @@ AI/GenAI course work and structured ML sessions:
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat-square&logo=talend&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square)
 
 **Cloud**
 
@@ -300,6 +310,14 @@ AI/GenAI course work and structured ML sessions:
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+
+**Web & Data Products**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ---
 
