@@ -280,7 +280,7 @@ AI/GenAI course work and structured ML sessions:
 
 <p align="center">
   <b>128 public repositories · 132+ MLOps tests passing · Public datasets with synthetic fixtures clearly labelled</b><br>
-  <i>Open to ML/AI Engineer & Senior Data Analyst opportunities in the UK 🇬🇧</i>
+  <i>Open to Data Analyst & Analytics Engineer opportunities in the UK 🇬🇧</i>
 </p>
 
 ## 📫 Connect
