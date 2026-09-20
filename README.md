@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jumma Mohammad Teli 👋</h1>
 
 <p align="center">
-  <b>MLOps Engineer & Senior Data Analyst</b><br>
+  <b>Data Analyst & Analytics Engineer</b><br>
   Turning messy data into production-grade decisions — from SQL pipelines and Power BI dashboards to FastAPI model serving, drift detection, and Kubernetes deployments.
 </p>
 
@@ -20,8 +20,8 @@ Data professional with **7+ years in analytics**, plus earlier IT operations exp
 
 - 🏢 **Currently:** Data Analyst @ UBS, London *(Oct 2024 – Present)*
 - 💼 **Previously:** Data Analyst @ IT Skills, London *(Oct 2023 – Oct 2024)*
-- 🎓 **Education:** MSc Computer Science, Queen Mary University of London *(2023–24)*
-- 🎯 **Focus:** ML/AI Engineer & Senior Data Analyst roles in the UK
+- 🎓 **Education:** MSc Internet of Things and Future Networks, Queen Mary University of London *(2023–24)*
+- 🎯 **Focus:** Data Analyst & Analytics Engineer roles in the UK, with MLOps depth
 
 ---
 
@@ -118,48 +118,6 @@ End-to-end MLOps series built on **UCI Bank Marketing** (41K rows) and **UCI Onl
 | [SLA Breach Prediction](https://github.com/jumma786/ai-support-sla-breach-prediction) | ML, Python | Support SLA breach classification |
 | [SLA Breach Threshold Tuning](https://github.com/jumma786/Sla-breach-classification-threshold-tuning) | ML, threshold tuning | Precision/recall optimisation |
 | [Weather Prediction](https://github.com/jumma786/weather-prediction) | Python, ML | Weather forecasting model |
-
----
-
-## 🏥 End-to-End Analytics Projects
-
-| Project | Stack | Headline |
-|---------|-------|----------|
-| [Hospital Analytics End-to-End](https://github.com/jumma786/hospital-analytics-end-to-end) | T-SQL, Power BI, XGBoost, SHAP | AUC 0.907, readmission prediction, star schema |
-| [Hospital Quality Intelligence](https://github.com/jumma786/hospital-quality-intelligence) | SQL, BI | Hospital quality KPI analysis |
-| [Hospital Readmission API](https://github.com/jumma786/hospital-readmission-api) | FastAPI, XGBoost, Render | Deployed live API with pytest coverage |
-| [UK Data Analyst Job Market NLP](https://github.com/jumma786/uk-data-analyst-job-market-nlp) | NLP, UMAP, HDBSCAN, XGBoost | 3,653 postings → 17 role archetypes |
-| [UK Online Retail Analytics](https://github.com/jumma786/online-retail-analytics) | Python, SQL Server, Power BI | £1.26M at-risk revenue, RFM segmentation |
-| [UK Energy Forecasting](https://github.com/jumma786/uk-energy-forecasting) | ML pipeline, time series | End-to-end forecasting pipeline |
-| [UK Road Collision Intelligence](https://github.com/jumma786/uk-road-collision-intelligence) | Python, SQL, BI | Road safety analytics |
-| [UK Road Traffic Analytics](https://github.com/jumma786/uk-road-traffic-analytics) | Python, SQL | Traffic pattern analysis |
-| [UK Salary Regression](https://github.com/jumma786/uk-salary-regression) | Python, regression | Salary prediction modelling |
-| [Airline Operations Analytics](https://github.com/jumma786/airline-operations-analytics) | Python, SQL | 495K BTS flight records, data quality audit |
-| [Investment Company Analysis](https://github.com/jumma786/investment-company-analysis) | Python, analytics | Investment performance analysis |
-| [Invoice Finance Risk Monitor](https://github.com/jumma786/invoice-finance-risk-monitor) | Python, risk analytics | Finance risk monitoring |
-| [Harbour Home Dispatch & Returns](https://github.com/jumma786/harbour-home-dispatch-returns-analysis) | Analytics | Dispatch & returns analysis |
-| [World Data Monitor](https://github.com/jumma786/world-data-monitor) | Python, data pipeline | Global data monitoring |
-| [COVID-19 EDA in R](https://github.com/jumma786/Exploratory-Analysis-of-COVID-19-Dataset-in-R) | R | Exploratory analysis of COVID data |
-
----
-
-## 📈 Power BI, Tableau & Business Intelligence
-
-| Project | Highlight |
-|---------|-----------|
-| [NorthStar Living UK Retail Dashboard](https://github.com/jumma786/-NorthStar-Living-UK-Retail-Performance-Dashboard) | Interactive retail performance across categories, regions & time |
-| [NHS RTT Dashboard](https://github.com/jumma786/NHS-RTT-Dashboard) | NHS referral-to-treatment waiting-time dashboard |
-| [HR Attrition Analysis (Power BI)](https://github.com/jumma786/hr-attrition-analysis-powerbi) | Workforce trends for retention strategy |
-| [Supply Chain Performance (Power BI)](https://github.com/jumma786/supply-chain-performance-powerbi) | Supply chain KPI dashboard |
-| [Coffee Sales Dashboard](https://github.com/jumma786/COFFEE_SALES_DASHBOARD) | Professional sales analytics |
-| [Superstore Sales Analysis (Power BI)](https://github.com/jumma786/superstore-sales-analysis-powerbi) | Power BI retail analytics |
-| [Power BI Business Dashboard](https://github.com/jumma786/powerbi-business-dashboard) | General business KPI dashboard |
-| [Employee Salary Analysis (Tableau)](https://github.com/jumma786/Employee-Salary-Analysis-Dashboard-Tableau-) | Tableau salary dashboard |
-| [House Price Analysis (Tableau)](https://github.com/jumma786/house-price-analysis-tableau) | Tableau housing market analysis |
-| [Chocolate Sales — Valuation & Ops](https://github.com/jumma786/Strategic-Valuation-Operational-Analysis-Chocolate-Sales-Co.-) | Strategic valuation & operational analysis |
-| [Global Bicycle Sales (Excel)](https://github.com/jumma786/global-bicycle-sales-analysis-excel) | Excel sales analysis |
-| [Excel Mental Health Data Analysis](https://github.com/jumma786/excel-mental-health-data-analysis) | Excel-based EDA |
-|---|---|---|
 
 ---
 
@@ -321,7 +279,7 @@ AI/GenAI course work and structured ML sessions:
 ---
 
 <p align="center">
-  <b>108 public repositories · 132+ MLOps tests passing · Public datasets with synthetic fixtures clearly labelled</b><br>
+  <b>128 public repositories · 132+ MLOps tests passing · Public datasets with synthetic fixtures clearly labelled</b><br>
   <i>Open to ML/AI Engineer & Senior Data Analyst opportunities in the UK 🇬🇧</i>
 </p>
 
