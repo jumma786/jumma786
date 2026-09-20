@@ -20,7 +20,7 @@ Data professional with **7+ years in analytics**, plus earlier IT operations exp
 
 - 🏢 **Currently:** Data Analyst @ UBS, London *(Oct 2024 – Present)*
 - 💼 **Previously:** Data Analyst @ IT Skills, London *(Oct 2023 – Oct 2024)*
-- 🎓 **Education:** MSc Internet of Things and Future Networks, Queen Mary University of London *(2023–24)*
+- 🎓 **Education:** Master of Science in Computer Science (Internet of Things and Future Networks), Queen Mary University of London *(2023–24)*
 - 🎯 **Focus:** Data Analyst & Analytics Engineer roles in the UK, with MLOps depth
 
 ---
